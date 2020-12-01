@@ -77,6 +77,10 @@ h1, h2, h3, h4, h5, h6, .font-heading {
   max-height: 360px;
 }
 
+.item img {
+  height: 210px;
+}
+
 .item .item-wrap:after {
   z-index: 2;
   position: absolute;
